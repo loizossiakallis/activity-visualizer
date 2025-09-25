@@ -48,9 +48,6 @@ export default function App() {
           <ActiveLineChart data={counts} />
         </section>
       </main>
-      <footer>
-        <small>Backend serves CSV data. Built for the Full Stack task.</small>
-      </footer>
     </div>
   )
 }
