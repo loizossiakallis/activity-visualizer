@@ -90,3 +90,6 @@ temp/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Project specific files
+REPORT.md
